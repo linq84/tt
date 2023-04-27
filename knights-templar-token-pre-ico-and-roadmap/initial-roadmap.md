@@ -6,12 +6,6 @@ Knights Templar Token minted
 
 Website / Social Media Channels
 
-2 x Stage ICO Launch 22/2/22
-
-Stage 1 - 22% Extra Tokens Free
-
-Stage 2 - 10% Extra Tokens Free
-
 Public Contract goes live.
 
 **2022 Q2**
