@@ -1,20 +1,20 @@
 # Initial Roadmap
 
-**2022 Q1**
+**Phase 1**
 
-Knights Templar Token minted
+Knights Templar Token minted - <mark style="color:green;">Complete</mark>
 
 Website / Social Media Channels
 
-Public Contract goes live.
+Public Contract goes live - <mark style="color:green;">Complete</mark>
 
-**2022 Q2**
+**PHASE 2**
 
 Liquidity Partners, include but not limited to BNB, BUSB, USDT, BTC, ETH.
 
-Branding, Marketing, Advertising and Social Media Influencers Contracts.
+Branding, Marketing, Advertising and Social Media
 
-**2022 Q3**
+**PHASE 3**
 
 Release of Wallet app IOS & Android
 
@@ -24,9 +24,9 @@ Exchange Development
 
 Hard Wallets
 
-**2022 Q4 & 2023 Q1-Q2**
+**PHASE 4**
 
-Exchange Launch
+Passive Income Interest Bearing LP's
 
 Debit/Credit Card Launch
 
